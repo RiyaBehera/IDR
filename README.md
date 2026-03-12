@@ -70,8 +70,7 @@ https://your-website-link.com
 IDR/
 │
 ├── index.html
-├── style.css
-├── script.js
+├── logo.png
 ├── logo2.png
 └── README.md
 ```
@@ -83,7 +82,7 @@ IDR/
 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/your-username/IDR.git
+git clone https://github.com/RiyaBehera/IDR.git
 ```
 
 2️⃣ Open the project folder
@@ -126,7 +125,7 @@ It uses **CSS Grid, Flexbox, and Media Queries** to ensure a smooth layout on al
 B.Tech Computer Science and Engineering
 
 GitHub:
-https://github.com/your-github-username
+https://github.com/your-github-RiyaBehera
 
 ---
 
