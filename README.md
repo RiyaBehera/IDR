@@ -30,7 +30,7 @@ https://your-website-link.com
 
 ### 📚 Services Section
 
-![Services](add-your-screenshot-link-here)
+![Services](C:\Users\RIYA BEHERA\Desktop\IDR\Service Screenshot.png
 
 ### 📬 Contact Section
 
@@ -41,13 +41,21 @@ https://your-website-link.com
 # ✨ Features
 
 ✔️ Modern landing page design
+
 ✔️ Fully responsive layout (desktop, tablet, mobile)
+
 ✔️ Smooth scrolling navigation
+
 ✔️ Interactive mobile menu
+
 ✔️ Animated hero section
+
 ✔️ Services and community sections
+
 ✔️ Contact form with submission message
+
 ✔️ Clean and structured UI
+
 
 ---
 
