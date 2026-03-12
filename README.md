@@ -19,23 +19,6 @@ Example:
 ```
 https://your-website-link.com
 ```
-
----
-
-# 📸 Screenshots
-
-### 🏠 Homepage
-
-![Homepage](add-your-screenshot-link-here)
-
-### 📚 Services Section
-
-![Services](C:\Users\RIYA BEHERA\Desktop\IDR\Service Screenshot.png
-
-### 📬 Contact Section
-
-![Contact](add-your-screenshot-link-here)
-
 ---
 
 # ✨ Features
