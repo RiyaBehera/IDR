@@ -131,10 +131,4 @@ https://github.com/your-github-RiyaBehera
 
 # ⭐ Support
 
-If you like this project, consider **starring the repository** ⭐
-It helps others discover the project!
-
-
-# ⭐ Support
-
 If you like this project, consider giving it a ⭐ on GitHub!
