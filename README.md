@@ -3,273 +3,147 @@
 ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
-![Responsive](https://img.shields.io/badge/Design-Responsive-green)
-![Status](https://img.shields.io/badge/Project-Completed-success)
+![Responsive](https://img.shields.io/badge/Responsive-Design-green)
 
-A **modern responsive landing website** built for the **Institute for Digital Risk (IDR)** to showcase its programs, services, and digital risk training pipeline.
-
-The website presents a **clean professional UI**, smooth navigation, and a structured layout suitable for **technology institutes, consulting firms, and cybersecurity organizations**.
+A modern and responsive **landing page for the Institute for Digital Risk (IDR)** designed to present the institute’s mission, services, and community.
+The website focuses on **clean UI, smooth animations, and responsive design** to create an engaging user experience.
 
 ---
 
-# 🌐 Live Website Sections
+# 🌐 Live Preview
 
-The website contains the following sections:
+👉 Add your deployed website link here
 
-* Hero Section
-* About IDR
-* Services
-* IDR Pipeline Model
-* Community
-* Contact Form
-* Footer
-
----
-
-# 🖥️ Website Preview
-
-*(Add screenshots here once your project is uploaded)*
-
-Example structure:
+Example:
 
 ```
-/screenshots/homepage.png
-/screenshots/services.png
-/screenshots/contact.png
+https://your-website-link.com
 ```
-
-Then display them like this:
-
-![Homepage](screenshots/homepage.png)
 
 ---
 
-# ✨ Key Features
+# 📸 Screenshots
 
-### 🎯 Modern Landing Page UI
+### 🏠 Homepage
 
-Clean layout designed for professional organizations and institutes.
+![Homepage](add-your-screenshot-link-here)
 
-### 📱 Fully Responsive Design
+### 📚 Services Section
 
-Works smoothly on:
+![Services](add-your-screenshot-link-here)
 
-* Desktop
-* Tablet
-* Mobile devices
+### 📬 Contact Section
 
-### 🚀 Smooth Navigation
+![Contact](add-your-screenshot-link-here)
 
-Includes **smooth scrolling between sections** for better user experience.
+---
 
-### 🎨 Interactive UI Elements
+# ✨ Features
 
-* Gradient animated headline
-* Hover effects on service cards
-* Scroll-based navbar styling
-* Animated buttons
-* Mobile navigation menu
-
-### 🧠 Structured Information Architecture
-
-The content is organized clearly into:
-
-* Institute overview
-* Services
-* Training model
-* Target audience
-* Contact details
-
-### 📩 Contact Form Interaction
-
-Users can submit interest through the contact form and receive a confirmation message.
+✔️ Modern landing page design
+✔️ Fully responsive layout (desktop, tablet, mobile)
+✔️ Smooth scrolling navigation
+✔️ Interactive mobile menu
+✔️ Animated hero section
+✔️ Services and community sections
+✔️ Contact form with submission message
+✔️ Clean and structured UI
 
 ---
 
 # 🧰 Tech Stack
 
-### Frontend
+**Frontend**
 
-| Technology | Purpose            |
-| ---------- | ------------------ |
-| HTML5      | Website structure  |
-| CSS3       | Styling and layout |
-| JavaScript | Interactivity      |
+* HTML5
+* CSS3
+* Vanilla JavaScript (ES6)
 
-### Tools & Libraries
+**Design**
+
+* CSS Flexbox
+* CSS Grid
+* CSS Animations
+* Responsive Design (Media Queries)
+
+**Assets**
 
 * Google Fonts
-* Tailwind CSS CDN
-* Responsive Media Queries
+* SVG Icons
 
 ---
 
 # 📂 Project Structure
 
 ```
-IDR-Website
+IDR/
 │
 ├── index.html
+├── style.css
+├── script.js
 ├── logo2.png
-├── README.md
-│
-└── screenshots
-    ├── homepage.png
-    ├── services.png
-    └── contact.png
+└── README.md
 ```
-
----
-
-# 🏗️ Website Architecture
-
-## 1️⃣ Hero Section
-
-Introduces the institute with the headline:
-
-**Advancing the Future of Digital Risk**
-
-Includes:
-
-* Call-to-action buttons
-* Animated gradient text
-* Introductory description
-
----
-
-## 2️⃣ About Section
-
-Explains the mission of the **Institute for Digital Risk**.
-
-Key highlights:
-
-* Industry-led training
-* UK university partnerships
-* Real-world risk projects
-
----
-
-## 3️⃣ Services Section
-
-IDR operates through **three core pillars**:
-
-### 🎓 Academy
-
-Training and certification programs including:
-
-* Cyber Risk Fundamentals
-* GRC Certification
-* Hands-on labs
-* Industry mentorship
-
-### 🔬 Innovation & Incubation
-
-Research initiatives in emerging fields such as:
-
-* AI governance
-* Future risk modelling
-* Research collaborations
-
-### 🧾 Advisory Services
-
-Consulting support for organizations including:
-
-* NIST implementation
-* ISO 27001 compliance
-* Risk assessment frameworks
-
----
-
-## 4️⃣ IDR Pipeline Model
-
-The professional development pipeline includes:
-
-```
-Train → Hire → Innovate → Deploy
-```
-
-This model ensures trainees become **industry-ready digital risk professionals**.
-
----
-
-## 5️⃣ Community Section
-
-The institute serves multiple professional groups:
-
-* 🎓 Students & Graduates
-* 💼 Early Career Professionals
-* 🏦 Financial Services Sector
-* ⚡ Critical Infrastructure Organizations
-
----
-
-## 6️⃣ Contact Section
-
-Includes:
-
-* Contact email
-* Location
-* Interest registration form
-
-Users can submit inquiries directly through the website.
 
 ---
 
 # ⚙️ How to Run the Project
 
-### 1️⃣ Clone the repository
+1️⃣ Clone the repository
 
 ```
-git clone https://github.com/yourusername/IDR.git
+git clone https://github.com/your-username/IDR.git
 ```
 
-### 2️⃣ Open the project folder
-
-### 3️⃣ Run the website
-
-Simply open:
+2️⃣ Open the project folder
 
 ```
-index.html
+cd IDR
 ```
 
-in any web browser.
+3️⃣ Open **index.html** in your browser.
 
-No installation required.
+No installation required since this is a **pure frontend project**.
+
+---
+
+# 📱 Responsive Design
+
+The website adapts to different screen sizes:
+
+* 💻 Desktop
+* 📱 Mobile
+* 📟 Tablet
+
+It uses **CSS Grid, Flexbox, and Media Queries** to ensure a smooth layout on all devices.
 
 ---
 
 # 🚀 Future Improvements
 
-Potential enhancements for the project:
-
-* Separate files for cleaner structure
-
-  * `style.css`
-  * `script.js`
-
 * Backend integration for contact form
-
-* Add animations using:
-
-  * GSAP
-  * Framer Motion
-
-* SEO optimization
-
-* Accessibility improvements
+* Dark mode support
+* Blog or insights section
+* CMS integration
+* Performance optimization
 
 ---
 
 # 👩‍💻 Author
 
 **Riya Behera**
-
 B.Tech Computer Science and Engineering
 
-Interested in **Web Development, AI, and Software Engineering**
+GitHub:
+https://github.com/your-github-username
 
 ---
+
+# ⭐ Support
+
+If you like this project, consider **starring the repository** ⭐
+It helps others discover the project!
+
 
 # ⭐ Support
 
