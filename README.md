@@ -17,7 +17,7 @@ The website focuses on **clean UI, smooth animations, and responsive design** to
 Example:
 
 ```
-https://your-website-link.com
+https://riyabehera.github.io/IDR/
 ```
 ---
 
